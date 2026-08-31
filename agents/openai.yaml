@@ -1,4 +1,4 @@
 interface:
-  display_name: "镜读"
+  display_name: "视频总结 Skill"
   short_description: "从长视频中提炼带时间戳、关键帧与原文依据的可追溯知识"
   default_prompt: "Use $scene-scribe to read this video and produce a source-grounded summary with exact timestamps and keyframes when useful."

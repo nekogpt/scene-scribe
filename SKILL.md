@@ -3,7 +3,7 @@ name: scene-scribe
 description: Read long-form videos and local media as traceable evidence by recovering timestamped speech, selecting meaningful frames, and producing source-grounded summaries. Use for video summaries, lecture notes, visual walkthroughs, or follow-up questions that need exact timestamps or screenshots; do not use for video editing or generation.
 ---
 
-# 镜读 SceneScribe
+# 视频总结 Skill
 
 Turn a video into a reusable evidence bundle before summarizing it. Keep source recovery deterministic and let the active agent perform interpretation.
 

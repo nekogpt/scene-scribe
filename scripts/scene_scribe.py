@@ -269,7 +269,7 @@ def inspect(args: argparse.Namespace) -> int:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="镜读: turn media into timestamped evidence")
+    parser = argparse.ArgumentParser(description="视频总结 Skill: turn media into timestamped evidence")
     subparsers = parser.add_subparsers(dest="command", required=True)
 
     ingest_parser = subparsers.add_parser("ingest", help="create an evidence bundle")

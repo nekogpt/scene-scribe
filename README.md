@@ -1,6 +1,6 @@
-# 镜读 SceneScribe
+# 视频总结 Skill
 
-SceneScribe turns long-form video into a traceable evidence bundle before an agent summarizes it. It preserves timestamped speech, selects useful frames, and keeps every conclusion traceable to the source.
+`scene-scribe` turns long-form video into a traceable evidence bundle before an agent summarizes it. It preserves timestamped speech, selects useful frames, and keeps every conclusion traceable to the source.
 
 This repository is currently maintained as a private personal Codex skill.
 
@@ -30,4 +30,3 @@ See [SKILL.md](./SKILL.md) for the agent workflow and constraints. Generated med
 $env:PYTHONDONTWRITEBYTECODE = "1"
 python -m unittest discover -s tests -v
 ```
-
